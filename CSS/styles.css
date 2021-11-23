@@ -1,0 +1,58 @@
+    body {
+      margin: 0;
+      color: #483434;
+      background-color: white;
+      font-family: 'Julius Sans One',sans-serif;
+    }
+
+    hr{
+      width: 15%;
+      border-width: 12px;
+      border-style: none none dotted;
+      color: #6B4F4F
+      }
+
+    h1 {
+      margin-top: 0;
+      color: #483434
+    }
+
+    h3 {
+      color: #483434
+    }
+
+    div {
+      background-color: #FFF3E4;
+      padding-left: 20px
+    }
+
+    footer {
+     background:#6B4F4F;
+     padding:20px
+    }
+
+    .introduction {
+      background-color: #FFF3E4;
+    }
+
+    .work-exp {
+      padding-left: 15px;
+      padding-right: 15px;
+      background-color: white;
+    }
+
+    .education {
+      background-color: white;
+    }
+
+
+    .skills {
+      background-color: white;
+    }
+
+    .contacts {
+      background-color: #6B4F4F;
+      color: white;
+      padding-left:50px;
+    }
+
